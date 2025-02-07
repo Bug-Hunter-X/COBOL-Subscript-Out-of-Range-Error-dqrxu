@@ -1,0 +1,1 @@
+This repository contains a COBOL program demonstrating a common subscript out-of-range error and its solution. The error occurs due to the lack of a bounds check before accessing elements in a table. The solution demonstrates how to add a bounds check to prevent the error.
